@@ -1,0 +1,11 @@
+@media(min-width: 1000px) {
+.qr-code-main {
+    width: 200px;
+}
+h1.heading {
+    font-size: 11.5px;
+}
+    p.subheading {
+        font-size: 11px;
+    }
+}
