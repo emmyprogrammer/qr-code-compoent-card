@@ -87,7 +87,7 @@ i only use chatgpt for things i am confused with.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Emmanuel Lawal](https://qr-code-compoent-card.vercel.app/)
 - Frontend Mentor - [@emmyprogrammer](https://www.frontendmentor.io/profile/emmyprogrammer)
 
 ## Acknowledgments
