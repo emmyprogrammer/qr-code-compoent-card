@@ -92,4 +92,4 @@ i only use chatgpt for things i am confused with.
 
 ## Acknowledgments
 
-i am very greatful to those that really teaach me the basics of web development like the set of my teacher Mr. Emmanuel Adefenwa.
+i am very greatful to those that really teach me the basics of web development like the set of my teacher Mr. Emmanuel Adefenwa.
